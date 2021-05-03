@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-merupakan sebuah program yang menggunakan bahasa pemograman java. 
+merupakan program - program yang dibuat dengan menggunakan bahasa pemograman java. 
